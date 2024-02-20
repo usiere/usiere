@@ -2,7 +2,7 @@
 
 About me:
 
-- 🔭 I’m currently working on a Fullstack application using VueJs and Express/Laravel
+- 🔭 I’m currently working on a Fullstack javascript application.
 - 🌱 I’m currently learning crossplatform mobile development using flutter/dart.
 - 👯 I’m looking to collaborate on fullstack javascript projects spanning across VueJS, ReactJs, Python and NodeJs.
 - 🤔 I’m looking to help with Frontend projects.
