@@ -1,6 +1,6 @@
 ## Hey, I'm Moses 👋
 
-Senior Full-Stack Engineer & AI Systems Architect based in Nairobi, Kenya.
+Senior Full-Stack Engineer & AI Systems Architect.
 
 I build production platforms with TypeScript, Python, React, Node.js, and PostgreSQL — and production AI systems with LangChain, OpenAI/Anthropic APIs, RAG pipelines, and vector databases.
 
