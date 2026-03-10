@@ -2,7 +2,7 @@
 
 Senior Full-Stack Engineer & AI Systems Architect.
 
-I build production platforms with TypeScript, Python, React, Node.js, and PostgreSQL — and production AI systems with LangChain, OpenAI/Anthropic APIs, RAG pipelines, and vector databases.
+I build production platforms with TypeScript, Python, VueJs, Node.js, and PostgreSQL — and production AI systems with LangChain, OpenAI/Anthropic APIs, RAG pipelines, and vector databases.
 
 ### What I'm working on
 
@@ -21,7 +21,7 @@ I build production platforms with TypeScript, Python, React, Node.js, and Postgr
 
 **Languages:** TypeScript, Python, JavaScript, SQL
 
-**Frontend:** React, Next.js, Vue.js, Nuxt.js
+**Frontend:** Vue.js, React, Next.js, Nuxt.js
 
 **Backend:** Node.js, FastAPI, Express, PostgreSQL, MongoDB, Redis
 
