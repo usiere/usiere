@@ -13,8 +13,8 @@ I build production platforms with TypeScript, Python, VueJs, Node.js, and Postgr
 
 ### What I've built
 
-- **KML AI Portal** — RAG-powered knowledge management system with semantic search across 10,000+ research publications, multi-agent orchestration, and expert matching. React, Python/FastAPI, LangChain, PostgreSQL, Chroma.
-- **MSDAT** — National health analytics platform serving 100,000+ users for Nigeria's Ministry of Health. React, Node.js, PostgreSQL, Redis, AWS.
+- **KML AI Portal** — RAG-powered knowledge management system with semantic search across 10,000+ research publications, multi-agent orchestration, and expert matching. VueJs, Python/FastAPI, LangChain, PostgreSQL, Chroma.
+- **MSDAT** — National health analytics platform serving 100,000+ users for Nigeria's Ministry of Health. VueJs, Node.js, PostgreSQL, Redis, AWS.
 - **MEL Analytics Platform** — Research analytics with real-time dashboards, DHIS2 health system integrations, and automated reporting pipelines.
 
 ### Stack
